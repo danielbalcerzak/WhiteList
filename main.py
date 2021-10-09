@@ -12,3 +12,5 @@ for i in range(100):
     companyName = companyData['result']['subject']['name']
     print(f"{i+1}: Szukany NIP należy do {companyName}")
     print("hurra")
+
+blabla
